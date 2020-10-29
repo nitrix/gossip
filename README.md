@@ -1,1 +1,3 @@
-gossip
+# gossip
+
+Twitch chat is cute. AYAYA.
